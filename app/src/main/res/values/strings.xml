@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kotlin_MVVM_Jetpack</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_fragment_title">User Info List</string>
+    <string name="label_email">Email</string>
+    <string name="address">Address</string>
+    <string name="user_detail_list">User Info Details</string>
+</resources>
